@@ -27,7 +27,7 @@
     "gulp-concat": "^2.6.1",
     "gulp-if": "^2.0.2",
     "gulp-sass": "^4.0.2",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "webpack-stream": "^5.2.1"
   }
 }
